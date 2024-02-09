@@ -1,6 +1,29 @@
 # Project List
 
 - projects v3:
+  - creation:
+    - compilers:
+      - [Micro](https://github.com/thewizardplusplus/micro) &mdash; interpreter of the Micro programming language; <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+      - [Tick-tock](https://github.com/thewizardplusplus/tick-tock) &mdash; interpreter of the Tick-tock programming language:
+        - [go-sync-utils](https://github.com/thewizardplusplus/go-sync-utils) &mdash; the library that provides utility entities for syncing; <span style="cursor: default" title="used">⚙️</span>
+    - games:
+      - [Biohazard](https://github.com/thewizardplusplus/biohazard) &mdash; 2D puzzle game for Android inspired by Conway's Game of Life and various block games: <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+        - [biohazardcore](https://github.com/thewizardplusplus/biohazardcore) &mdash; the library that implements the business logic of the puzzle game inspired by Conway's Game of Life and various block games; <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+        - [lualife](https://github.com/thewizardplusplus/lualife) &mdash; the library that implements Conway's Game of Life: <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+          - [luatypechecks](https://github.com/thewizardplusplus/luatypechecks) &mdash; the library that implements various type checks in order to simulate static typing in the Lua language; <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+      - [Tangled Stones](https://github.com/thewizardplusplus/tangled-stones) &mdash; 2D puzzle game for Android inspired by various games about tangled webs; <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+      - [PWM Simulator](https://github.com/thewizardplusplus/pwm-simulator) &mdash; 2D puzzle game for Android inspired by pulse-width modulation and various side-scrolling games: <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+        - [luaplot](https://github.com/thewizardplusplus/luaplot) &mdash; the library that implements a model of a 2D plot with support for displaying functions of time (as in an oscilloscope); <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+      - [Gravity Duel](https://github.com/thewizardplusplus/gravity-duel) &mdash; 2D puzzle game for Android inspired by various shoot 'em up games reduced to a duel of two players and combined with gravity effects (but only for impulses); <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+    - electronics:
+      - LEGO® MINDSTORMS® Robot Inventor:
+        - [robot-fan](https://github.com/thewizardplusplus/robot-fan) &mdash; the fan model built using LEGO® MINDSTORMS® Robot Inventor;
+        - [robot-life](https://github.com/thewizardplusplus/robot-life) &mdash; Conway's Game of Life on LEGO® MINDSTORMS® Robot Inventor;
+    - misc.:
+      - [Giftfall](https://github.com/thewizardplusplus/giftfall) &mdash; the New Year's demo;
+      - utilities:
+        - [git-earliest-date](https://github.com/thewizardplusplus/git-earliest-date); <span style="cursor: default" title="used">⚙️</span>
+        - [FPS Fixer](https://github.com/thewizardplusplus/fps-fixer) &mdash; the utility for fixing FPS in videos; <span style="cursor: default" title="used">⚙️</span>
   - portfolio:
     - games:
       - go-chess:
