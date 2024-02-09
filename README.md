@@ -1,0 +1,26 @@
+# Project List
+
+- projects v1:
+  - compilers:
+    - BASIC:
+      - [Wizard BASIC 0](https://github.com/thewizardplusplus/wizard-basic-0) &mdash; компилятор языка программирования Wizard BASIC 0;
+      - [Wizard BASIC](https://github.com/thewizardplusplus/wizard-basic) &mdash; компилятор языка программирования Wizard BASIC;
+      - [Wizard BASIC 2](https://github.com/thewizardplusplus/wizard-basic-2) &mdash; компилятор языка программирования Wizard BASIC 2:
+        - [Anna Graphics](https://github.com/thewizardplusplus/anna-graphics) &mdash; трёхмерный графический движок, написанный на C++ на базе OpenGL;
+        - [Anna Sound](https://github.com/thewizardplusplus/anna-sound) &mdash; трёхмерный звуковой движок, написанный на C++ на базе OpenAL;
+    - [Wizard BASIC 3](https://github.com/thewizardplusplus/wizard-basic-3) &mdash; компилятор языка программирования Wizard BASIC 3:
+      - [Wizard Parser](https://github.com/thewizardplusplus/wizard-parser) &mdash; LL(\*)-парсер на C++ с поддержкой DSL для описания грамматики в EBNF непосредственно в коде программы;
+  - games:
+    - [Город](https://github.com/thewizardplusplus/city) &mdash; MMORPG про мегаполис в киберпанк и нуар стилистике; <span style="cursor: default" title="used">⚙️</span>
+  - Android:
+    - [Diary Of Calories](https://github.com/thewizardplusplus/diary-of-calories) &mdash; калькулятор калорий; <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+    - [Wizard Budget](https://github.com/thewizardplusplus/wizard-budget) &mdash; калькулятор бюджета: <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
+      - [Wizard Tags](https://github.com/thewizardplusplus/wizard-tags) &mdash; библиотека для мобильных браузеров, реализующая редактор тегов с автодополнением; <span style="cursor: default" title="used">⚙️</span>
+  - web:
+    - [Wizard Diary](https://github.com/thewizardplusplus/wizard-diary) &mdash; todo-лист; <span style="cursor: default" title="used">⚙️</span>
+    - blog:
+      - [Wizard Blog Old](https://github.com/thewizardplusplus/wizard-blog-old) &mdash; старый движок блога; <span style="cursor: default" title="used">⚙️</span>
+      - [Wizard Blog](https://github.com/thewizardplusplus/wizard-blog) &mdash; движок блога; <span style="cursor: default" title="used">⚙️</span>
+      - Wizard Blog New:
+        - [October Copyright Years](https://github.com/thewizardplusplus/october-copyright-years) &mdash; a plugin for October CMS that provides the component for calculation and displaying of copyright years; <span style="cursor: default" title="used">⚙️</span>
+        - [Image Preparer](https://github.com/thewizardplusplus/image-preparer) &mdash; the utility for image preparation. <span style="cursor: default" title="used">⚙️</span>
