@@ -22,7 +22,7 @@
     - misc.:
       - [Giftfall](https://github.com/thewizardplusplus/giftfall) &mdash; the New Year's demo;
       - utilities:
-        - [git-earliest-date](https://github.com/thewizardplusplus/git-earliest-date); <span style="cursor: default" title="used">⚙️</span>
+        - [git-earliest-date](https://github.com/thewizardplusplus/git-earliest-date) &mdash; the utility for searching the earliest root commit in a repository and the earliest repository in a repository group; <span style="cursor: default" title="used">⚙️</span>
         - [FPS Fixer](https://github.com/thewizardplusplus/fps-fixer) &mdash; the utility for fixing FPS in videos; <span style="cursor: default" title="used">⚙️</span>
   - portfolio:
     - games:
