@@ -1,5 +1,15 @@
 # Project List
 
+- projects v2:
+  - irenica:
+    - VK:
+      - White Back:
+        - [White Generator](https://github.com/thewizardplusplus/white-generator) &mdash; utility for a generation of memes; <span style="cursor: default" title="used">⚙️</span>
+      - [VK Group Stats](https://github.com/thewizardplusplus/vk-group-stats) &mdash; service for a collecting of a VK groups stats; <span style="cursor: default" title="used">⚙️</span>
+      - [VK Bot](https://github.com/thewizardplusplus/vk-bot) &mdash; extendable VK group bot; <span style="cursor: default" title="used">⚙️</span>
+    - [Coupon](https://github.com/thewizardplusplus/coupon) &mdash; utility for a getting and a formatting of coupons from the admitad service; <span style="cursor: default" title="used">⚙️</span>
+    - [Telegram Bot](https://github.com/thewizardplusplus/telegram-bot) &mdash; Telegram channel bot; <span style="cursor: default" title="used">⚙️</span>
+    - [Motivator](https://github.com/thewizardplusplus/motivator) &mdash; the utility for repeatedly displaying notifications in the standard OS way; <span style="cursor: default" title="used">⚙️</span>
 - projects v1:
   - compilers:
     - BASIC:
