@@ -37,9 +37,6 @@
       - [go-atari-montecarlo](https://github.com/thewizardplusplus/go-atari-montecarlo) &mdash; the library that implements an Atari Go engine based on the Monte Carlo tree search algorithm; <span style="cursor: default" title="on the go">👟</span>
       - [go-atari-cli](https://github.com/thewizardplusplus/go-atari-cli) &mdash; the Atari Go program with a terminal-based interface; <span style="cursor: default" title="on the go">👟</span>
   - web:
-    - go-upload-progress:
-      - [go-upload-progress-backend](https://github.com/thewizardplusplus/go-upload-progress-backend) &mdash; back-end of the service that implements a simple file manager with a display of file upload progress:
-        - [go-writable-fs](https://github.com/thewizardplusplus/go-writable-fs) &mdash; the library that implements a writable file system;
     - go-link-shortener:
       - [go-link-shortener-backend](https://github.com/thewizardplusplus/go-link-shortener-backend) &mdash; back-end of the service for shorting links:
         - [go-http-utils](https://github.com/thewizardplusplus/go-http-utils) &mdash; the library that provides HTTP utility functions; <span style="cursor: default" title="used">⚙️</span>
