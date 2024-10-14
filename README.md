@@ -20,9 +20,8 @@
   - electronics:
     - LEGO® MINDSTORMS® Robot Inventor:
       - [robot-fan](https://github.com/thewizardplusplus/robot-fan) &mdash; the fan model built using LEGO® MINDSTORMS® Robot Inventor;
-      - [robot-life](https://github.com/thewizardplusplus/robot-life) &mdash; Conway's Game of Life on LEGO® MINDSTORMS® Robot Inventor;
   - misc.:
-    - [Giftfall](https://github.com/thewizardplusplus/giftfall) &mdash; the New Year's demo;
+    - [Wizard Intro](https://github.com/thewizardplusplus/wizard-intro) &mdash; the demo to generate intros for my YouTube channel;
     - utilities:
       - [git-earliest-date](https://github.com/thewizardplusplus/git-earliest-date) &mdash; the utility for searching the earliest root commit in a repository and the earliest repository in a repository group; <span style="cursor: default" title="used">⚙️</span>
       - [FPS Fixer](https://github.com/thewizardplusplus/fps-fixer) &mdash; the utility for fixing FPS in videos; <span style="cursor: default" title="used">⚙️</span>
