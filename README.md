@@ -19,12 +19,10 @@
     - [Gravity Duel](https://github.com/thewizardplusplus/gravity-duel) &mdash; 2D puzzle game for Android inspired by various shoot 'em up games reduced to a duel of two players and combined with gravity effects (but only for impulses); <span style="cursor: default" title="on the go">👟</span> <span style="cursor: default" title="used">⚙️</span>
   - electronics:
     - LEGO® MINDSTORMS® Robot Inventor:
-      - [robot-fan](https://github.com/thewizardplusplus/robot-fan) &mdash; the fan model built using LEGO® MINDSTORMS® Robot Inventor;
+      - [Robot Fan](https://github.com/thewizardplusplus/robot-fan) &mdash; the fan model built using LEGO® MINDSTORMS® Robot Inventor;
   - misc.:
     - [Wizard Intro](https://github.com/thewizardplusplus/wizard-intro) &mdash; the demo to generate intros for my YouTube channel;
-    - utilities:
-      - [git-earliest-date](https://github.com/thewizardplusplus/git-earliest-date) &mdash; the utility for searching the earliest root commit in a repository and the earliest repository in a repository group; <span style="cursor: default" title="used">⚙️</span>
-      - [FPS Fixer](https://github.com/thewizardplusplus/fps-fixer) &mdash; the utility for fixing FPS in videos; <span style="cursor: default" title="used">⚙️</span>
+    - [FPS Fixer](https://github.com/thewizardplusplus/fps-fixer) &mdash; the utility for fixing FPS in videos; <span style="cursor: default" title="used">⚙️</span>
 - portfolio:
   - games:
     - go-chess:
