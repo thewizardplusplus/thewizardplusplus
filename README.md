@@ -51,7 +51,8 @@
       - [go-hashmap](https://github.com/thewizardplusplus/go-hashmap) &mdash; the library that implements a hash map with synchronized and concurrent wrappers;
     - [go-crawler](https://github.com/thewizardplusplus/go-crawler) &mdash; the library that implements crawling of all relative links for specified ones:
       - [go-html-selector](https://github.com/thewizardplusplus/go-html-selector) &mdash; the library that implements collecting text, specified HTML tags, and their attributes from an HTML document;
-    - [go-blockchain](https://github.com/thewizardplusplus/go-blockchain) &mdash; the library that implements models and algorithms of blockchain.
+    - [go-blockchain](https://github.com/thewizardplusplus/go-blockchain) &mdash; the library that implements models and algorithms of blockchain:
+      - [go-pow](https://github.com/thewizardplusplus/go-pow) &mdash; the library that implements a proof-of-work system with customizable challenges.
 
 ## Projects v2
 
