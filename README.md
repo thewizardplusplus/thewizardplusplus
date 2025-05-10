@@ -52,7 +52,8 @@
     - [go-crawler](https://github.com/thewizardplusplus/go-crawler) &mdash; the library that implements crawling of all relative links for specified ones:
       - [go-html-selector](https://github.com/thewizardplusplus/go-html-selector) &mdash; the library that implements collecting text, specified HTML tags, and their attributes from an HTML document;
     - [go-blockchain](https://github.com/thewizardplusplus/go-blockchain) &mdash; the library that implements models and algorithms of blockchain:
-      - [go-pow](https://github.com/thewizardplusplus/go-pow) &mdash; the library that implements a proof-of-work system with customizable challenges.
+      - [go-pow](https://github.com/thewizardplusplus/go-pow) &mdash; the library that implements a proof-of-work system with customizable challenges;
+    - [go-dos-protector](https://github.com/thewizardplusplus/go-dos-protector) &mdash; the library implementing denial-of-service attack (DoS attack) protection using the Proof-of-Work (PoW) algorithm.
 
 ## Projects v2
 
